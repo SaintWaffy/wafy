@@ -5,5 +5,5 @@ req = request.Request(url=WEBHOOK_URL,
                       method='POST')
 
 payload = {
-    'content': "Salut les z'agrumes ! Ça zeste ?"
+    'content': "je suis gros."
 }
