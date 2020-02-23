@@ -1,7 +1,1 @@
-WEBHOOK_URL = 'https://discordapp.com/api/webhooks/681118944148455477/o02Ff-8SGZZJHq1OzzZuJ4at9iZW1VOJ4i6P9-o53gvkWxu3L2HbtdGOQ5QoCZUat8eQ'
-req = request.Request(url=WEBHOOK_URL,
-                      data=json.dumps(payload).encode('utf-8'),
-                      method='POST')
-payload = {
-    'content': "je suis gros."
-}
+gg
